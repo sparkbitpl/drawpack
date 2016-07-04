@@ -1,5 +1,5 @@
 
-<svg width="1200" height="760">
+<svg width="1200" height="760" version="1.1" xmlns="http://www.w3.org/2000/svg">
 
 
 <g style="fill:#e6f5ff;stroke:black">
@@ -9,7 +9,6 @@
     </g>
         <rect x="20" y="40" width="1160" height="440"></rect>
 </g>
-    
 
 <g style="fill:#b3e0ff;stroke:black">
      <g>
@@ -18,7 +17,6 @@
     </g>
         <rect x="40" y="80" width="1120" height="110"></rect>
 </g>
-    
 
 <g style="fill:#66c2ff;stroke:black">
      <g>
@@ -27,7 +25,6 @@
     </g>
         <rect x="60" y="120" width="250" height="50"></rect>
 </g>
-    
 <g style="fill:#b3e0ff;stroke:black">
      <g>
         <rect x="40" y="210" width="190" height="20"></rect>
@@ -35,7 +32,6 @@
     </g>
         <rect x="40" y="230" width="250" height="50"></rect>
 </g>
-    
 <g style="fill:#b3e0ff;stroke:black">
      <g>
         <rect x="310" y="210" width="190" height="20"></rect>
@@ -43,7 +39,6 @@
     </g>
         <rect x="310" y="230" width="250" height="50"></rect>
 </g>
-    
 <g style="fill:#b3e0ff;stroke:black">
      <g>
         <rect x="580" y="210" width="190" height="20"></rect>
@@ -51,7 +46,6 @@
     </g>
         <rect x="580" y="230" width="250" height="50"></rect>
 </g>
-    
 <g style="fill:#b3e0ff;stroke:black">
      <g>
         <rect x="850" y="210" width="190" height="20"></rect>
@@ -59,7 +53,6 @@
     </g>
         <rect x="850" y="230" width="250" height="50"></rect>
 </g>
-    
 <g style="fill:#b3e0ff;stroke:black">
      <g>
         <rect x="40" y="300" width="190" height="20"></rect>
@@ -67,7 +60,6 @@
     </g>
         <rect x="40" y="320" width="250" height="50"></rect>
 </g>
-    
 <g style="fill:#b3e0ff;stroke:black">
      <g>
         <rect x="310" y="300" width="190" height="20"></rect>
@@ -75,7 +67,6 @@
     </g>
         <rect x="310" y="320" width="250" height="50"></rect>
 </g>
-    
 <g style="fill:#b3e0ff;stroke:black">
      <g>
         <rect x="580" y="300" width="190" height="20"></rect>
@@ -83,7 +74,6 @@
     </g>
         <rect x="580" y="320" width="250" height="50"></rect>
 </g>
-    
 <g style="fill:#b3e0ff;stroke:black">
      <g>
         <rect x="850" y="300" width="190" height="20"></rect>
@@ -91,7 +81,6 @@
     </g>
         <rect x="850" y="320" width="250" height="50"></rect>
 </g>
-    
 <g style="fill:#b3e0ff;stroke:black">
      <g>
         <rect x="40" y="390" width="190" height="20"></rect>
@@ -99,7 +88,6 @@
     </g>
         <rect x="40" y="410" width="250" height="50"></rect>
 </g>
-    
 <g style="fill:#e6f5ff;stroke:black">
      <g>
         <rect x="20" y="500" width="190" height="20"></rect>
@@ -107,7 +95,6 @@
     </g>
         <rect x="20" y="520" width="1160" height="110"></rect>
 </g>
-    
 
 <g style="fill:#b3e0ff;stroke:black">
      <g>
@@ -116,7 +103,6 @@
     </g>
         <rect x="40" y="560" width="250" height="50"></rect>
 </g>
-    
 <g style="fill:#e6f5ff;stroke:black">
      <g>
         <rect x="20" y="650" width="190" height="20"></rect>
@@ -124,7 +110,6 @@
     </g>
         <rect x="20" y="670" width="250" height="50"></rect>
 </g>
-    
 <g style="fill:#e6f5ff;stroke:black">
      <g>
         <rect x="290" y="650" width="190" height="20"></rect>
@@ -132,7 +117,6 @@
     </g>
         <rect x="290" y="670" width="250" height="50"></rect>
 </g>
-    
 
 </svg>
 
