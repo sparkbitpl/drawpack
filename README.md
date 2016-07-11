@@ -1,5 +1,8 @@
 # drawpack
 
+A handy tool for generating package diagrams from directory structure.
+Gives instant insight into the project structure and greatly simplifies documenting software architecture.
+
 ## Features
 
  * Generates SVG package diagrams from directory structure 
